@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "name": "Video Map Objects",
+  "version": "1.0.0",
+  "description": "Adicionar vídeos e GIFs como objetos no mapa",
+  "author": "magicarpgamerft",
+  "action": {
+    "title": "Adicionar Vídeo",
+    "icon": "icon.png",
+    "popover": "index.html",
+    "width": 320,
+    "height": 240
+  }
+}
